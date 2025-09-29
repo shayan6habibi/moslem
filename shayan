@@ -1,3 +1,2 @@
-hysteria2://b58f24af-fc9e-4935-93da-8ed9dff23202@91.108.247.11:443?sni=de1.587458.xyz&insecure=1#آلمان🇩🇪1
-hysteria2://b58f24af-fc9e-4935-93da-8ed9dff23202@de2.587458.xyz:1443?sni=de2.587458.xyz&insecure=0#آلمان🇩🇪2
-hysteria2://b58f24af-fc9e-4935-93da-8ed9dff23202@gbr1.587458.xyz:1443?sni=gbr1.587458.xyz&insecure=1#آمریکا🇺🇲
+hysteria2://8a18dc29-24e9-4e62-8b35-24f09affc841@91.108.247.11:443?security=tls&insecure=1&sni=de1.587458.xyz#آلمان
+hysteria2://8a18dc29-24e9-4e62-8b35-24f09affc841@gbr1.587458.xyz:1443?security=tls&insecure=1&sni=gbr1.587458.xyz#آمریکا
