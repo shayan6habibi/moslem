@@ -1,3 +1,4 @@
-hysteria2://b58f24af-fc9e-4935-93da-8ed9dff23202@91.108.247.11:443?sni=de1.587458.xyz&insecure=1#آلمان🇩🇪1
-hysteria2://b58f24af-fc9e-4935-93da-8ed9dff23202@de2.587458.xyz:1443?sni=de2.587458.xyz&insecure=0#آلمان🇩🇪2
-hysteria2://b58f24af-fc9e-4935-93da-8ed9dff23202@gbr1.587458.xyz:1443?sni=gbr1.587458.xyz&insecure=1#آمریکا🇺🇲
+hy2://182061a9-e730-4bc9-acd1-a42e9c6f7637@94.159.107.136:8443?sni=0b92f8ce62a2de1.587458.xyz#[Hy2]DE%E5%BE%B7%E5%9B%BD-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F/2.
+tuic://182061a9-e730-4bc9-acd1-a42e9c6f7637:182061a9-e730-4bc9-acd1-a42e9c6f7637@94.159.107.136:1443?congestion_control=bbr&alpn=h3&sni=de2.587458.xyz&udp_relay_mode=native#[tuic]DE%E5%BE%B7%E5%9B%BD-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F/2
+tuic://182061a9-e730-4bc9-acd1-a42e9c6f7637:182061a9-e730-4bc9-acd1-a42e9c6f7637@91.108.247.11:1443?congestion_control=bbr&alpn=h3&sni=de1.587458.xyz&udp_relay_mode=native&allow_insecure=1#[tuic]DE%E5%BE%B7%E5%9B%BD-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F/1
+tuic://182061a9-e730-4bc9-acd1-a42e9c6f7637:182061a9-e730-4bc9-acd1-a42e9c6f7637@185.85.242.177:1443?congestion_control=bbr&alpn=h3&sni=gbr1.587458.xyz&udp_relay_mode=native#[tuic]GBR%E8%8B%B1%E5%9B%BD-%E4%BC%A6%E6%95%A6/1
